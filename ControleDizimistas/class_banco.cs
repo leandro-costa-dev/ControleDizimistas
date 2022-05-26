@@ -117,7 +117,6 @@ namespace ControleDizimistas
                     MessageBox.Show("Configurações gravadas com sucesso!", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                     con.Close();
-
                 }
                 catch (Exception ex)
                 {
